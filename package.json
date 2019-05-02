@@ -1,0 +1,12 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0",
+  "description": "",
+  "main": "bot.js",
+  "author": "CHurtado",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "random-quote": "0.0.1",
+    "twit": "^2.2.11"
+  }
+}
